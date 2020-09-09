@@ -1,2 +1,35 @@
-# ice-test
-A test project about ice
+# 标题一
+
+## 标题二
+
+### 标题三
+
+正文——我的爱好是
+
+1. 唱
+2. 跳
+3. 篮球
+
+我喜欢吃
+
+* 水果
+* 火锅
+
+下面是代码，每一行前面四个空格
+
+    var a = 1;
+    
+下面也是代码，可指定语言
+
+```javascript
+var a = 1
+```
+
+链接[google](https://google.com)
+
+
+
+
+
+
+
